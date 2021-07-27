@@ -1,4 +1,4 @@
- ** the main program using **
+ # The program is writtin mostly in `Jupyter Notebook`
  
  
  creating all possible permutations from excel file and loading it into pandas data stracture.
