@@ -4,6 +4,6 @@ WORKDIR /home
 
 RUN pip install pandas more-itertools requests openpyxl
 
-COPY copyT.py CarsData.xlsx ./
+COPY Cars.py CarsData.xlsx ./
 
-CMD python copyT.py  
+CMD python Cars.py  
