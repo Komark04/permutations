@@ -5,5 +5,5 @@
  
  1. to build a docker image `docker build -t taskauto .`
  2. to run the docker with a volume ( output files would be writin to the voulme) `docker run -d -v <SOURCE_DIR>:/home taskauto` where source_dir is the folder with code.
- 3. to run manually inside a container `docker run -it taskauto bash`
+ ** to run manually inside a container `docker run -it taskauto bash`
 
